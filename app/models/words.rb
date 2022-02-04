@@ -1,4 +1,0 @@
-class Words
-
-  
-end

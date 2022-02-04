@@ -3,4 +3,6 @@ Rails.application.routes.draw do
 
   resources :words
 
+  get '/wordlex', to: 'words#play'
+
 end
